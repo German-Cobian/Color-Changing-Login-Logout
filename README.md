@@ -57,7 +57,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Guidelines for this project supplied by [Microverse](https://github.com/microverseinc/curriculum-react-redux/tree/main/group-project)
+Guidelines for this project supplied by a YouTube tutorial (to be named as soon as I find it again).
 
 
 ## 📝 License
